@@ -1,0 +1,30 @@
+{
+  "name": "zerosec",
+  "version": "1.0.6",
+  "description": "ZeroSec API binding as npm package for NodeJS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takkostakko/zerosec-node.git"
+  },
+  "keywords": [
+    "zerosec",
+    "obfuscator",
+    "lua",
+    "roblox",
+    "fivem",
+    "csgo"
+  ],
+  "author": "oxince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takkostakko/zerosec-node/issues"
+  },
+  "homepage": "https://github.com/takkostakko/zerosec-node#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
