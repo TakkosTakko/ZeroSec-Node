@@ -10,13 +10,13 @@ This repository is a client library that provides a convenient way to interact w
 To use zerosec in your project, install it using npm:
 
 ```bash
-npm install zerosec
+npm install zerosec-api
 ```
 
 ## Usage
 
 ```javascript
-import ZeroSec, { ObfuscationPayload, ObfuscationResult } from 'zerosec';
+import ZeroSec, { ObfuscationPayload, ObfuscationResult } from 'zerosec-api';
 
 // Create an instance of ZeroSec with your API key
 const apiKey = 'your-api-key';
